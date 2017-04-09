@@ -1,29 +1,32 @@
-## Your Name
+## Henry Hobhouse
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a lesser known blend of [operations (<-oxymorinic right?->) creative] mixed with stratedgy. I love learning, I am obessive over the details. I enjoy problem solving. I have a habit of creating said problems through life challenges. Within Technology these include founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathalons and building my own house.
 
-## Skills
+I am currently a data analyst, project manager, problem solver, communicator, team player >> Product Manager. I became this through being a successful ecommerce entrepreneur, failed ecommerce entrepreneur, technolgy consultant.
 
-#### This Skill
+I am studying in the April '17 cohort of the venerable Makers Academy coding bootcamp. I will be a junior full stack developer in 3 months time. I will be an even better Product Manager and looking for a role in a team making awesome products. This is my challenge.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+## Skills >> Solving Problems >> Building Web Apps
 
-- Experience
-- Achievements
-- Evidence
+Test, Learn, Action. Repeat. Its that simply. I utilise quite a few web analytical tools, A/B test methodogly, fast agile iternations, interaction with customers and do so by selling all principles to the relevant team via collabrative agreement.
 
-#### Another Skill
+#### Example 1 - ShortersClub.co.uk
+- Co-founded in 2010.
+- Product managed the first online bulk food grocers in the UK.
+- Learned how to develop digital products through their full life-cycle.
+- First introduced to Lean methodology.
+- Successfully sold the business in Oct 2011 to Booker PLC
+- Project managed, working with Bookers digital and operations teams, developing a new internal web app to manage operations within all delivery centres. This was roll-out to work within their existing £900m digital commerce channel.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Example 2 - Dropwines.com
+- Co-founded in 2012
+- Managed pivot of principle product proposition from daily deals to flash sales causing uptake in early cohort activation by ~70.6% and increased total revenue per member by ~57.7%
+- Developed a landing page strategy using dynamic content, built using marketing keywords from paid marketing channels (Twitter, FB and Adwords). Improved CPA, to email marketing list, by ~32.3% and CPA to paid member by 23.2%.
+- Planned, and was project managing, pivoting the supply chain from a marketplace to a centralised distribution model to improve operating margin by a projected 120.3% over a 5 month project window.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+Makers Academy - Apr '17
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +35,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+Warwick University - 2001 - 2002
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Telecommunication and Electronic Engineering
+- Course cancelled at end of first year
+- Gained sponsorship from Marconi PLC who subsidised the course with Warwick Univerisity. After the first year Marconi collapsed and Warwick subsequently cancelled the course.
 
-#### Any other qualifications
 
-## Experience
+#### Projects
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=repositories).
+
+**Hello World**    
+*Filler before completing projects during Makers*  
+**Ruby-Pratice**
+*A few scripts praticing in the Pre-course*  
