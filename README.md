@@ -50,3 +50,12 @@ For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=reposi
 *Filler before completing projects during Makers*  
 **Ruby-Pratice**
 *A few scripts praticing in the Pre-course*  
+
+#### In my Spare time
+
+Aside from aforementioned triathalons. I also have a penchant for:
+  - Enjoying time with my family
+  - Travel - wider mind = better person
+  - Reading / Movies  - for escapism :)
+  - Cycling - kind if a given with triathalon but...
+  -
