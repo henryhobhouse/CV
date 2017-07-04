@@ -10,7 +10,7 @@ For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=reposi
 
 | Name | Description  | Technologies |  Testing |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Project BYO-man](https://github.com/henryhobhouse/project_byoman)| A replica of Pac-Man using minimal frameworks (build your own) witin the app. | JavaScript,  NodeJS | Jasmine, Karma, PhantomJS, RequireJS |
+| [Project BYO-man](https://github.com/henryhobhouse/project_byoman)| A replica of Pac-Man using minimal frameworks (build your own) within the app. | JavaScript,  NodeJS | Jasmine, Karma, PhantomJS, RequireJS |
 | [MakersBnB](https://github.com/henryhobhouse/Makersbnb) | A MakersBnB clone using a Mean stack. Learnt every component in one week. | MongoDB, Express, AngularJS and NodeJS | Mocha, Chai, ZombieJS  |
 | [Quiz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated | React-Native, NodeJS | Jest, Chai, Enzyme |  
 
@@ -22,6 +22,20 @@ Test, Learn, Action. Repeat. Utilising quite a feedback tools/methodologies such
 
 #### Team driving force
 I have the ability to find what is exciting about a project, and bring this enthusiasm to a whole team. My final project team-mates credited my positive influence as being a crucial aspect to our project success. See Project BYO-man in projects. I also have the perseverance to get things done and to keep going with a problem until it is solved.
+
+## Experience
+
+#### Product Manager - Amchara
+Currently in charge of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them. Ambition is to move complete product online although startup constraints and culture has created road-blocks. 
+
+#### Digital Consultant - Django Consulting
+Advising businesses on their digital strategy and then helping execute on that advise. 
+
+#### Founder and Product - DropWines
+Founded to make wine exploration easier and more fun. Built on Spree (Ruby on Rails ecommerce) framework we eventually built our own ecommerce platform on Rails due to heavy technical debt forked version of Spree created. 
+
+#### Co-Founder and Operations - ShortersClub
+First national bulk online grocery retailer in UK. Founded in 2009. Sold to Booker PLC two years later. Brand absorbed by Booker. Subsquently project managed rolling out B2C channel across Booker before leaving to start DropWines
 
 ## Education
 
