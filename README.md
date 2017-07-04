@@ -4,6 +4,8 @@ I am a lesser known blend of [logic (<-oxymorinic right?->) creative] mixed with
 
 I am currently a junior full-stack developer and project manager using my skills in data analysis, problem solving, communication and ability to work in, and help focus, a team. I aquired these skills through being a successful ecommerce entrepreneur, failed ecommerce entrepreneur, technology consultant and Makers Academy alumna. 
 
+**Tech Skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Node.js, jQuery, Bootstrap, PostgreSQL
+
 ## Projects
 
 For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=repositories).
@@ -11,7 +13,7 @@ For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=reposi
 | Name | Description  | Technologies |  Testing |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Project BYO-man](https://github.com/henryhobhouse/project_byoman)| A replica of Pac-Man using minimal frameworks (build your own) within the app. | JavaScript,  NodeJS | Jasmine, Karma, PhantomJS, RequireJS |
-| [MakersBnB](https://github.com/henryhobhouse/Makersbnb) | A MakersBnB clone using a Mean stack. Learnt every component in one week. | MongoDB, Express, AngularJS and NodeJS | Mocha, Chai, ZombieJS  |
+| [MakersBnB](https://github.com/henryhobhouse/Makersbnb) | A MakersBnB clone using a MEAN stack. Learnt every component of the stack, from scratch, in one week. | MongoDB, Express, AngularJS and NodeJS | Mocha, Chai, ZombieJS  |
 | [Quiz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated | React-Native, NodeJS | Jest, Chai, Enzyme |  
 
 ## Skills
