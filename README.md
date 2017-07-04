@@ -2,9 +2,7 @@
 
 I am a lesser known blend of [logic (<-oxymorinic right?->) creative] mixed with stratedgy. I love learning, I am obessive over the details. I enjoy problem solving. I have a habit of creating said problems through life challenges. Within Technology these include founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathalons and building my own house.
 
-I am currently a data analyst, project manager, problem solver, communicator, team player >> Product Manager. I became this through being a successful ecommerce entrepreneur, failed ecommerce entrepreneur, technolgy consultant.
-
-I studyied in the April '17 cohort of the venerable Makers Academy coding bootcamp. I now have the raw skill-set of a junior full stack developer and plan to persue building on this. 
+I am currently a project manager and junior full-stack developer using my skills in data analysis, problem solving, communication and being a team player. I became this through being a successful ecommerce entrepreneur, failed ecommerce entrepreneur, technolgy consultant and Makers Academy alumna. 
 
 #### Projects
 
@@ -16,20 +14,14 @@ For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=reposi
 | [MakersBnB](https://github.com/henryhobhouse/Makersbnb)       | A replica of MakersBnB using a Mean stack.                                         | MongoDB, Express, AngularJS and NodeJS           | Mocha, Chai, ZombieJS           |
 | [Quiz App](https://github.com/henryhobhouse/quiz-app)            | Mobile App to test if you are intoxicated | React-Native, NodeJS       | Jest, Chai, Enzyme    |  
 
-## Skills >> Solving Problems >> Building Web Apps
+## Skills
 
-Test, Learn, Action. Repeat. Utilising quite a few web analytical tools, A/B test methodogly, fast agile iternations, interaction with customers and do so by selling all principles to the relevant team via collabrative agreement.
+#### Solving Problems >> Building Web Apps
 
-#### Example 1 - ShortersClub.co.uk
-- Co-founded in 2010.
-- Product managed the first online bulk food grocers in the UK.
-- Learned how to develop digital products through their full life-cycle.
-- First introduced to Lean methodology.
-- Successfully sold the business in Oct 2011 to Booker PLC
-- Project managed, working with Bookers digital and operations teams, developing a new internal web app to manage operations within all delivery centres. This was roll-out to work within their existing £900m digital commerce channel.
+Test, Learn, Action. Repeat. Utilising quite a feedback tools/methodologies such as web analytics, A/B testing, fast agile iternations, interaction with stakeholders/PMs and do so by selling all principles to the my direct team via collabrative agreement.
 
-#### Example 2 - Project BYO-man
-- Final project 
+#### Team driving force
+I have the ability to find what is exciting about a project, and bring this enthusiasm to a whole team. My final project team-mates credited my positive influence as being a crucial aspect to our project success. See Project BYO-man in projects. I also have the perseverance to get things done and to keep going with a problem until it is solved.
 
 ## Education
 
