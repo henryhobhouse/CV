@@ -2,9 +2,9 @@
 
 I am a lesser known blend of [logic (<-oxymorinic right?->) creative] mixed with stratedgy. I love learning, I am obessive over the details. I enjoy problem solving. I have a habit of creating said problems through life challenges. Within Technology these include founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathalons and building my own house.
 
-I am currently a junior full-stack developer and project manager using my skills in data analysis, problem solving, communication and ability to work in, and help focus, a team. I aquired these skills through being a successful ecommerce entrepreneur, failed ecommerce entrepreneur, technology consultant and Makers Academy alumna. 
+I am currently a junior full-stack developer and product manager using my skills in data analysis, problem solving, communication and ability to work in, and help focus, a team. I aquired these skills through being a successful ecommerce entrepreneur, failed ecommerce entrepreneur, technology consultant and Makers Academy alumna. 
 
-**Tech Skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Node.js, jQuery, Bootstrap, PostgreSQL
+**Tech Skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Node.js, jQuery, PostgreSQL
 
 ## Projects
 
@@ -28,7 +28,7 @@ I have the ability to find what is exciting about a project, and bring this enth
 ## Experience
 
 #### Product Manager - Amchara ( 2015 - current )
-Currently in charge of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them. Ambition is to move complete product online although startup constraints and culture has created road-blocks. 
+Currently in head of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them. Ambition is to move complete product online. Startup constraints slowing this down. 
 
 #### Digital Consultant - Django Consulting ( 2012 - 2015 )
 Advising businesses on their digital strategy and then helping execute on that advise. 
@@ -47,8 +47,8 @@ Makers Academy - Apr '17
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha, Karma
+- Ruby, Rails, Javascript, Node.js, jQuery
+- Rspec, Jasmine, Mocha, Karma, PhantomJS
 - PostgreSQL, MongoDB
 
 Warwick University - 2001 - 2002
@@ -60,7 +60,7 @@ Warwick University - 2001 - 2002
 ### In my Spare time
 
   - Enjoying down-time with my family
-  - Travel - wider mind = better person
+  - Travel
   - Reading / Movies 
   - Cycling  
   - Triathalon
