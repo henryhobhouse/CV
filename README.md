@@ -1,8 +1,13 @@
 # Henry Hobhouse
 
-I am a lesser known blend of [logic (<-oxymorinic right?->) creative] mixed with stratedgy. I love learning, I am obessive over the details. I enjoy problem solving. I have a habit of creating said problems through life challenges. Within Technology these include founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathalons and building my own house.
+I am a lesser known blend of [logic (<-oxymoronic right?->) creative] mixed with strategy. I love learning, I am obsessive over the
+details. I enjoy problem solving. I have a habit of creating said problems through life challenges. Within Technology these include
+founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathlons
+and building my own house.
 
-I am currently a junior full-stack developer and product manager using my skills in data analysis, problem solving, communication and ability to work in, and help focus, a team. I aquired these skills through being a successful ecommerce entrepreneur, failed ecommerce entrepreneur, technology consultant and Makers Academy alumna. 
+I am currently a junior full-stack developer and product manager using my skills in data analysis, problem solving, communication and
+ability to work in, and help focus, a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
+entrepreneur, technology consultant and Makers Academy alumnus.
 
 **Tech Skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Node.js, jQuery, PostgreSQL
 
@@ -19,11 +24,13 @@ For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=reposi
 ## Skills
 
 #### Solving Problems >> Building Web Apps
-
-Test, Learn, Action. Repeat. Utilising quite a feedback tools/methodologies such as TDD, web analytics, A/B testing, fast agile iternations, interaction with stakeholders/PMs and do so by selling all principles to the my direct team via collabrative agreement.
+Test, Learn, Action. Repeat. Utilising quite a feedback tools/methodologies such as TDD, web analytics, A/B testing, fast agile
+iterations, interaction with stakeholders/PMs and do so by selling all principles to the my direct team via collaborative agreement.
 
 #### Team driving force
-I have the ability to find what is exciting about a project, and bring this enthusiasm to a whole team. My final project team-mates credited my positive influence as being a crucial aspect to our project success. See Project BYO-man in projects. I also have the perseverance to get things done and to keep going with a problem until it is solved.
+I have the ability to find what is exciting about a project, and bring this enthusiasm to a whole team. My final project team-mates
+credited my positive influence as being a crucial aspect to our project success. See Project BYO-man in projects. I also have the
+perseverance to get things done and to keep going with a problem until it is solved.
 
 ## Experience
 
