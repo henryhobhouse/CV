@@ -35,16 +35,20 @@ perseverance to get things done and to keep going with a problem until it is sol
 ## Experience
 
 #### Product Manager - Amchara ( 2015 - current )
-Currently in head of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them. Ambition is to move complete product online. Startup constraints slowing this down. 
+Currently in head of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them.
+Ambition is to move complete product online. Startup constraints slowing this down. 
 
 #### Digital Consultant - Django Consulting ( 2012 - 2015 )
 Advising businesses on their digital strategy and then helping execute on that advise. 
 
 #### Founder and Product - DropWines ( 2012 )
-Founded to make wine exploration easier and more fun. Built on Spree (Ruby on Rails ecommerce) framework we eventually built our own ecommerce platform on Rails due to heavy technical debt forked version of Spree created. Brought out by investor over dissagreements on share structure; shut down shortly afterwards. 
+Founded to make wine exploration easier and more fun. Built on Spree (Ruby on Rails ecommerce) framework we eventually built our own
+ecommerce platform on Rails due to heavy technical debt forked version of Spree created. Brought out by investor over disagreements on
+share structure; shut down shortly afterwards.
 
 #### Co-Founder and Operations - ShortersClub ( 2009 - 2012 )
-First national bulk online grocery retailer in UK. Founded in 2009. Sold to Booker PLC two years later. Brand absorbed by Booker. Subsquently project managed rolling out B2C channel across Booker before leaving to start DropWines
+First national bulk online grocery retailer in UK. Founded in 2009. Sold to Booker PLC two years later. Brand absorbed by Booker.
+Subsequently project managed rolling out B2C channel across Booker before leaving to start DropWines
 
 ## Education
 
@@ -62,7 +66,8 @@ Warwick University - 2001 - 2002
 
 - Telecommunication and Electronic Engineering
 - Course cancelled at end of first year
-- Sponsored by Marconi PLC whom subsidised the course within Warwick Univerisity. At end of first year Marconi collapsed and Warwick cancelled the course.
+- Sponsored by Marconi PLC whom subsidised the course within Warwick University. At end of first year Marconi collapsed and Warwick
+cancelled the course.
 
 ### In my Spare time
 
@@ -70,4 +75,4 @@ Warwick University - 2001 - 2002
   - Travel
   - Reading / Movies 
   - Cycling  
-  - Triathalon
+  - Triathlon
