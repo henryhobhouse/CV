@@ -5,8 +5,8 @@ details. I enjoy problem solving. I have a habit of creating said problems throu
 founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathlons
 and building my own house.
 
-I am currently a junior full-stack developer and product manager using my skills in data analysis, problem solving, communication and
-ability to work in, and help focus, a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
+I am currently a junior full-stack developer using my skills in data analysis, problem solving, communication and
+ability to work in a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
 entrepreneur, technology consultant and Makers Academy alumnus.
 
 **Tech Skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Node.js, jQuery, PostgreSQL
