@@ -9,7 +9,7 @@ I am currently a junior full-stack developer using my skills in data analysis, p
 ability to work in a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
 entrepreneur, technology consultant and Makers Academy alumnus.
 
-**Tech Skills** : JavaScript >> TypeScript, Node.js, Angular, jQuery, SQL, Docker, Webpack, Babel, HTML5, CSS3, AWS S3
+**Tech Skills** : JavaScript >> TypeScript, Node.js, Angular, jQuery, MySQL, Docker, Webpack, Babel, HTML5, CSS3, AWS S3
 
 ## Open Source Projects
 
