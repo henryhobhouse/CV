@@ -9,9 +9,9 @@ I am currently a junior full-stack developer using my skills in data analysis, p
 ability to work in a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
 entrepreneur, technology consultant and Makers Academy alumnus.
 
-**Tech Skills** : Ruby, JavaScript, HTML, CSS, Sinatra, Node.js, jQuery, PostgreSQL
+**Tech Skills** : JavaScript >> TypeScript, Node.js, Angular, jQuery, SQL, Docker, Webpack, Babel, HTML5, CSS3, AWS S3
 
-## Projects
+## Open Source Projects
 
 For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=repositories).
 
@@ -34,9 +34,14 @@ perseverance to get things done and to keep going with a problem until it is sol
 
 ## Experience
 
-#### Product Manager - Amchara ( 2015 - current )
-Currently in head of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them.
-Ambition is to move complete product online. Startup constraints slowing this down. 
+#### Full Stack Developer - Rezonence ( Oct 2017 - Current )
+Primarly working in Javascript ES8, or its superset Typescript, working on data reporting pipelines and creating a new header bidding 
+product to enable the companies primary advertising platform to work progamatically. Our team works in a fully agile enviroment, 
+using TDD, utilising the Alassian suite. We aim to have as near to 100% coverage for newly introduced code as possible. 
+
+#### Product Manager - Amchara ( 2015 - 2017 )
+Head of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them.
+Ambition is to move complete product online although startup constraints slowed this down. 
 
 #### Digital Consultant - Django Consulting ( 2012 - 2015 )
 Advising businesses on their digital strategy and then helping execute on that advise. 
