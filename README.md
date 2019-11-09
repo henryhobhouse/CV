@@ -1,15 +1,15 @@
 # Henry Hobhouse
 
 I am a lesser known blend of [logic (<-oxymoronic right?->) creative] mixed with strategy. I love learning, I am obsessive over the
-details. I enjoy problem solving. I have a habit of creating said problems through life challenges. Within Technology these include
+details. I enjoy problem solving. I have a habit of creating said problems through life challenges. Within technology these include
 founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathlons
 and building my own house.
 
-I am currently a junior full-stack developer using my skills in data analysis, problem solving, communication and
+I am currently a senior front end engineer / product lead using my skills in data analysis, problem solving, communication and
 ability to work in a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
-entrepreneur, technology consultant and Makers Academy alumnus.
+entrepreneur, enjoying my work in interesting tech startups and Makers Academy alumnus.
 
-**Tech Skills** : JavaScript >> TypeScript, Node.js, Angular, jQuery, MySQL, Docker, Webpack, Babel, HTML5, CSS3, AWS S3
+**Tech Skills** : JavaScript >> TypeScript, Node.js, React, graphql/apollo, nextjs, Webpack, Babel, HTML5, CSS3, AWS S3
 
 ## Open Source Projects
 
@@ -18,29 +18,36 @@ For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=reposi
 | Name | Description  | Technologies |  Testing |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Project BYO-man](https://github.com/henryhobhouse/project_byoman)| A replica of Pac-Man using minimal frameworks (build your own) within the app. | JavaScript,  NodeJS | Jasmine, Karma, PhantomJS, RequireJS |
-| [MakersBnB](https://github.com/henryhobhouse/Makersbnb) | A MakersBnB clone using a MEAN stack. Learnt every component of the stack, from scratch, in one week. | MongoDB, Express, AngularJS and NodeJS | Mocha, Chai, ZombieJS  |
-| [Quiz App](https://github.com/henryhobhouse/quiz-app) | Mobile App to test if you are intoxicated | React-Native, NodeJS | Jest, Chai, Enzyme |  
 
 ## Skills
 
 #### Solving Problems >> Building Web Apps
-Test, Learn, Action. Repeat. Utilising quite a feedback tools/methodologies such as TDD, web analytics, A/B testing, fast agile
+Test, Learn, Action. Repeat. Utilising quite a feedback tools/methodologies such as TDD, Pull requests, QA testing, fast agile
 iterations, interaction with stakeholders/PMs and do so by selling all principles to the my direct team via collaborative agreement.
 
 #### Team driving force
-I have the ability to find what is exciting about a project, and bring this enthusiasm to a whole team. My final project team-mates
-credited my positive influence as being a crucial aspect to our project success. See Project BYO-man in projects. I also have the
-perseverance to get things done and to keep going with a problem until it is solved.
+I have the ability to find what is exciting about a project, and bring this enthusiasm to a whole team. I also have the
+perseverance to get things done and to keep going with a problem until it is solved. This approach, along with my soft skills from historic product roles, has enabled me to go from a junior engineer to senior and also take on the role of a product lead in one of the two product teams.
 
 ## Experience
 
-#### Full Stack Developer - Rezonence ( Oct 2017 - Current )
-Primarly working in Javascript ES8, or its superset Typescript, working on data reporting pipelines and creating a new header bidding 
+#### Product Lead - Divido ( March 2019 - Current )
+Working with a team of 5 to deliver a new web app for all lenders or merchants who self finance their lending. We have moved to an apollo federated architecture written in Typescript that further enchances our DDD approach to modelling the businesses data into a single source of truth. We have also moved to a new design system that is the basis of our new UI library.
+
+#### Front End Engineer - Divido ( Aug 2018 - March 2019 )
+Working with Nextjs, React and graphql stack, worked within the team to deliver a new web app for all merchants to handle their finance applications. Notable achievments:
+* Introduced and helped move entire front-end team to Typescript from Flow. Includes starting the work to move all types to the graphql layer so all web app's would have a single source of truth as a form of Domain Driven Design.
+* Build, independently, a new formatting library to allow for progmatic regionalistation for all currencies, dates, numbers and percentages.
+* Successfully launched new Merchant portal web app, with theming and localisation (language and formatting) built in.
+* Promoted after 7 months to product lead of all Divido 'portals' (web-apps).
+
+#### Full Stack Developer - Rezonence ( Oct 2017 - Aug 2018 )
+Primarly working in Javascript (ES6+) , or its superset Typescript, working on data reporting pipelines and creating a new header bidding 
 product to enable the companies primary advertising platform to work progamatically. Our team works in a fully agile enviroment, 
 using TDD, utilising the Alassian suite. We aim to have as near to 100% coverage for newly introduced code as possible. 
 
 #### Product Manager - Amchara ( 2015 - 2017 )
-Head of product for Amchara. A health start-up targeting chronic conditions and the life-style decisions that lead to them.
+Head of product for Amchara. A health start-up targeting chronic health conditions and the life-style decisions that lead to them.
 Ambition is to move complete product online although startup constraints slowed this down. 
 
 #### Digital Consultant - Django Consulting ( 2012 - 2015 )
@@ -59,7 +66,7 @@ Subsequently project managed rolling out B2C channel across Booker before leavin
 
 Makers Academy - Apr '17
 
-- Curiosity and hungry passion for code
+- Curiosity and hungry passion for understanding coding
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
