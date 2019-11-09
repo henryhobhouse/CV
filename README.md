@@ -5,7 +5,7 @@ details. I enjoy problem solving. I have a habit of creating said problems throu
 founding two ecommerce businesses. One sold to a FTSE 250 company. Outside of technology these include competing in IronMan triathlons
 and building my own house.
 
-I am currently a senior front end engineer / product lead using my skills in data analysis, problem solving, communication and
+I am currently a senior frontend engineer / product lead using my skills in data analysis, problem solving, communication and
 ability to work in a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
 entrepreneur, enjoying my work in interesting tech startups and Makers Academy alumnus.
 
@@ -23,7 +23,7 @@ For a complete list, see my [GitHub](https://github.com/henryhobhouse?tab=reposi
 
 #### Solving Problems >> Building Web Apps
 Test, Learn, Action. Repeat. Utilising quite a feedback tools/methodologies such as TDD, Pull requests, QA testing, fast agile
-iterations, interaction with stakeholders/PMs and do so by selling all principles to the my direct team via collaborative agreement.
+iterations, interaction with stakeholders/PMs and do so by selling all principles to my direct team via collaborative agreement.
 
 #### Team driving force
 I have the ability to find what is exciting about a project, and bring this enthusiasm to a whole team. I also have the
@@ -32,18 +32,18 @@ perseverance to get things done and to keep going with a problem until it is sol
 ## Experience
 
 #### Product Lead - Divido ( March 2019 - Current )
-Working with a team of 5 to deliver a new web app for all lenders or merchants who self finance their lending. We have moved to an apollo federated architecture written in Typescript that further enchances our DDD approach to modelling the businesses data into a single source of truth. We have also moved to a new design system that is the basis of our new UI library.
+Working with a team of 5 to deliver a new web app for all lenders or merchants who self finance their lending. We have moved to an apollo federated architecture written in Typescript that further enhances our DDD approach to modelling the businesses data into a single source of truth. We have also moved to a new design system that is the basis of our new UI library.
 
 #### Front End Engineer - Divido ( Aug 2018 - March 2019 )
-Working with Nextjs, React and graphql stack, worked within the team to deliver a new web app for all merchants to handle their finance applications. Notable achievments:
+Working with Nextjs, React and graphql stack, worked within the team to deliver a new web app for all merchants to handle their finance applications. Notable achievements:
 * Introduced and helped move entire front-end team to Typescript from Flow. Includes starting the work to move all types to the graphql layer so all web app's would have a single source of truth as a form of Domain Driven Design.
-* Build, independently, a new formatting library to allow for progmatic regionalistation for all currencies, dates, numbers and percentages.
+* Build, independently, a new formatting library to allow for programmatic localisation for all currencies, dates, numbers and percentages.
 * Successfully launched new Merchant portal web app, with theming and localisation (language and formatting) built in.
 * Promoted after 7 months to product lead of all Divido 'portals' (web-apps).
 
 #### Full Stack Developer - Rezonence ( Oct 2017 - Aug 2018 )
-Primarly working in Javascript (ES6+) , or its superset Typescript, working on data reporting pipelines and creating a new header bidding 
-product to enable the companies primary advertising platform to work progamatically. Our team works in a fully agile enviroment, 
+Primarily working in Javascript (ES6+) , or its superset Typescript, working on data reporting pipelines and creating a new header bidding 
+product to enable the companies primary advertising platform to work programmatically. Our team works in a fully agile environment, 
 using TDD, utilising the Alassian suite. We aim to have as near to 100% coverage for newly introduced code as possible. 
 
 #### Product Manager - Amchara ( 2015 - 2017 )
@@ -51,7 +51,7 @@ Head of product for Amchara. A health start-up targeting chronic health conditio
 Ambition is to move complete product online although startup constraints slowed this down. 
 
 #### Digital Consultant - Django Consulting ( 2012 - 2015 )
-Advising businesses on their digital strategy and then helping execute on that advise. 
+Advising businesses on their digital strategy and then help execute on that advice. 
 
 #### Founder and Product - DropWines ( 2012 )
 Founded to make wine exploration easier and more fun. Built on Spree (Ruby on Rails ecommerce) framework we eventually built our own
@@ -77,7 +77,7 @@ Makers Academy - Apr '17
 Warwick University - 2001 - 2002
 
 - Telecommunication and Electronic Engineering
-- Course cancelled at end of first year
+- Course cancelled at the end of first year
 - Sponsored by Marconi PLC whom subsidised the course within Warwick University. At end of first year Marconi collapsed and Warwick
 cancelled the course.
 
