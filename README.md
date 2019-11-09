@@ -9,7 +9,7 @@ I am currently a senior frontend engineer / product lead using my skills in data
 ability to work in a team. I acquired these skills through being a successful ecommerce entrepreneur, failed ecommerce
 entrepreneur, enjoying my work in interesting tech startups and Makers Academy alumnus.
 
-**Tech Skills** : JavaScript >> TypeScript, Node.js, React, graphql/apollo, nextjs, Webpack, Babel, HTML5, CSS3, AWS S3
+**Tech Skills** : JavaScript >> TypeScript, Node.js, React, graphql/apollo, nextjs, Webpack, Babel, HTML5, CSS3, Styled Components and/or Emotion JS
 
 ## Open Source Projects
 
