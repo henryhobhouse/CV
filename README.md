@@ -37,7 +37,7 @@ Working with a team of 5 to deliver a new web dashboard for all lenders or merch
 #### Front End Engineer - Divido ( Aug 2018 - March 2019 )
 Working with Nextjs, React and graphql stack, worked within the team to deliver a new web app for all merchants to handle their finance applications. Notable achievements:
 * Introduced and helped move entire front-end team to Typescript from Flow. Includes starting the work to move all types to the graphql layer so all web app's would have a single source of truth as a form of Domain Driven Design.
-* Build, independently, a new formatting library to allow for programmatic localisation for all currencies, dates, numbers and percentages.
+* Built, independently, a new formatting library to allow for programmatic localisation for all currencies, dates, numbers and percentages.
 * Successfully launched new Merchant portal web app, with theming and localisation (language and formatting) built in.
 * Promoted after 7 months to product lead of all Divido 'portals' (dashboards).
 
