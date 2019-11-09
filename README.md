@@ -32,14 +32,14 @@ perseverance to get things done and to keep going with a problem until it is sol
 ## Experience
 
 #### Product Lead - Divido ( March 2019 - Current )
-Working with a team of 5 to deliver a new web app for all lenders or merchants who self finance their lending. We have moved to an apollo federated architecture written in Typescript that further enhances our DDD approach to modelling the businesses data into a single source of truth. We have also moved to a new design system that is the basis of our new UI library.
+Working with a team of 5 to deliver a new web dashboard for all lenders or merchants who self finance their lending. We have moved to an apollo federated architecture written in Typescript that further enhances our DDD approach to modelling the businesses data into a single source of truth. We have also moved to a new design system that is the basis of our new UI library.
 
 #### Front End Engineer - Divido ( Aug 2018 - March 2019 )
 Working with Nextjs, React and graphql stack, worked within the team to deliver a new web app for all merchants to handle their finance applications. Notable achievements:
 * Introduced and helped move entire front-end team to Typescript from Flow. Includes starting the work to move all types to the graphql layer so all web app's would have a single source of truth as a form of Domain Driven Design.
 * Build, independently, a new formatting library to allow for programmatic localisation for all currencies, dates, numbers and percentages.
 * Successfully launched new Merchant portal web app, with theming and localisation (language and formatting) built in.
-* Promoted after 7 months to product lead of all Divido 'portals' (web-apps).
+* Promoted after 7 months to product lead of all Divido 'portals' (dashboards).
 
 #### Full Stack Developer - Rezonence ( Oct 2017 - Aug 2018 )
 Primarily working in Javascript (ES6+) , or its superset Typescript, working on data reporting pipelines and creating a new header bidding 
