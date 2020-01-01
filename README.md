@@ -31,8 +31,8 @@ perseverance to get things done and to keep going with a problem until it is sol
 
 ## Experience
 
-#### Product Lead - Divido ( March 2019 - Current )
-Working with a team of 5 to deliver a new web dashboard for all lenders or merchants who self finance their lending. We have moved to an apollo federated architecture written in Typescript that further enhances our DDD approach to modelling the businesses data into a single source of truth. We have also moved to a new design system that is the basis of our new UI library.
+#### Senior Front End Engineer & Technical Product Owner - Divido ( March 2019 - Current )
+Working within a team of 5 to deliver a new web dashboard for all lenders or merchants who self finance their lending. We moved to an apollo federated architecture written in Typescript that further enhances our DDD approach to modelling the businesses data into a single source of truth. We also moved to a new design system that is the basis of Divido's new UI library.
 
 #### Front End Engineer - Divido ( Aug 2018 - March 2019 )
 Working with Nextjs, React and graphql stack, worked within the team to deliver a new web app for all merchants to handle their finance applications. Notable achievements:
@@ -42,9 +42,7 @@ Working with Nextjs, React and graphql stack, worked within the team to deliver 
 * Promoted after 7 months to product lead of all Divido 'portals' (dashboards).
 
 #### Full Stack Developer - Rezonence ( Oct 2017 - Aug 2018 )
-Primarily working in Javascript (ES6+) , or its superset Typescript, working on data reporting pipelines and creating a new header bidding 
-product to enable the companies primary advertising platform to work programmatically. Our team works in a fully agile environment, 
-using TDD, utilising the Alassian suite. We aim to have as near to 100% coverage for newly introduced code as possible. 
+Primarily working in Javascript (ES6+) , or its superset Typescript, working on data reporting pipelines and creating a new header bidding product to enable the companies primary advertising platform to work programmatically. Our team works in a fully agile environment, using TDD, utilising the Alassian suite. We aim to have as near to 100% coverage for newly introduced code as possible. 
 
 #### Product Manager - Amchara ( 2015 - 2017 )
 Head of product for Amchara. A health start-up targeting chronic health conditions and the life-style decisions that lead to them.
